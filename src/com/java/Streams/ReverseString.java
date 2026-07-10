@@ -1,4 +1,4 @@
-package com.java;
+package com.java.Streams;
 
 import java.util.*;
 class ReverseString
